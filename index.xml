@@ -6,7 +6,15 @@
     <description>Recent content on My New Blog Site</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 21:22:33 +0200</lastBuildDate>
     <atom:link href="https://checkinindza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codetest</title>
+      <link>https://checkinindza.github.io/posts/codetest/</link>
+      <pubDate>Fri, 31 Oct 2025 21:22:33 +0200</pubDate>
+      <guid>https://checkinindza.github.io/posts/codetest/</guid>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;system.println(&amp;#34;Hello World!&amp;#34;);
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img alt=&#34;Landscape&#34; loading=&#34;lazy&#34; src=&#34;https://checkinindza.github.io/images/image.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
